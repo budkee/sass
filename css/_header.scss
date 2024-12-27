@@ -1,0 +1,22 @@
+header {
+
+    @include justifySpaceBetween();
+    background: $primary;
+    padding: 5rem;
+    
+
+    h1 {
+        color: $light;
+        font-size: 3rem;
+        margin: 4rem;
+    }
+
+    button {    
+        
+        @include botao();
+        text-decoration: none;
+        font: $font-padrao;
+        
+    }
+
+}

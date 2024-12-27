@@ -1,0 +1,40 @@
+
+@mixin campos() {
+    
+    margin: 1rem;
+    padding: 1rem;
+    border: 2rem;
+    height: 1rem;
+    width: 15rem;
+    border-radius: 5px;
+}
+
+@mixin botao() {
+
+    cursor: pointer;
+    background: $secondary;
+    color: $dark;
+    font: $font-padrao;
+    
+    padding: 1rem;
+    border: 2rem;
+    margin: 1rem;
+    border-radius: 5px;
+
+    &:hover {
+        background: darken($light, 60%);
+    }
+
+    a {
+        color: $light;
+        text-decoration: none;
+    }
+}
+
+@mixin justifySpaceBetween() {
+    
+    display: flex;
+    justify-content: space-between;
+    justify-items: space-between;
+    align-items: center;
+}

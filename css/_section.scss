@@ -1,0 +1,9 @@
+section {
+
+    @include justifySpaceBetween();
+    background: $secondary;
+    color: $dark;
+    padding: 5rem;
+    height: 100vh;
+    font-size: 2rem;
+}

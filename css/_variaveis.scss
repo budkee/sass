@@ -1,0 +1,17 @@
+// Cores
+$primary:#bd20e4c9;
+$secondary: #ffffff;
+$terciary: #c53137;
+$dark: black;
+$light: white;
+
+// Tipografias
+@font-face {
+    font-family: 'Inconsolata Normal';
+    src: url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap') format('woff2'),
+        url('https://exemplo.com/fonts/minha-fonte.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-padrao: 'Inconsolata', sans-serif;

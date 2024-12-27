@@ -1,0 +1,33 @@
+footer {
+    
+    background: $primary;
+    color: $light;
+    padding: 5rem;
+    font: $font-padrao;
+
+    .contato {
+        
+        @include justifySpaceBetween;
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        input {
+            @include campos();
+        }
+
+        textarea {
+            @include campos();
+            height: 5rem;
+        }
+
+        button {
+            @include botao();
+            
+        }
+    
+    }
+}
