@@ -52,16 +52,18 @@ SASS é uma linguagem baseada em Ruby que é compilada em CSS para uso em navega
     - **Dificuldade de migração**:
         
         Se um projeto grande já utiliza CSS puro, a migração para SASS pode ser trabalhosa, especialmente se o código existente não estiver bem estruturado ou modularizado.
-        
 
-https://sass-lang.com/documentation/
 
-https://fonts.google.com/knowledge/using_type/the_foundations_of_web_typography
+## Referências e Links
 
-https://fonts.google.com/selection
+- [Aprenda Sass em 25 Minutos | Curso Rápido de Sass | YouTube](https://youtu.be/1F2jqH-d7bw?si=gkTD6T0Ip1qOYrND)
 
-https://youtu.be/1F2jqH-d7bw?si=gkTD6T0Ip1qOYrND
+- [Documentação Oficial | SASS](https://sass-lang.com/documentation/)
 
-https://developer.mozilla.org/en-US/docs/Web/CSS
+- [Google Fonts](https://fonts.google.com/)
 
-https://github.com/budkee/sass
+- [Fundamentos da Tipografia Web | Google Fonts](https://fonts.google.com/knowledge/using_type/the_foundations_of_web_typography)
+
+- [CSS | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+- [Link desse Repositório](https://github.com/budkee/sass)
