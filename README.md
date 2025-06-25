@@ -2,7 +2,7 @@
  
 SASS (**Syntactically Awesome Style Sheets**) é uma linguagem de estilo dinâmica que é usada principalmente para criar folhas de estilo em cascata (CSS) para páginas da web. Assim como o LESS, o SASS é uma extensão do CSS que adiciona recursos para tornar o código CSS mais eficiente e fácil de manter.
 
-### Funcionalidades
+## Funcionalidades
 
 SASS é uma linguagem baseada em Ruby que é compilada em CSS para uso em navegadores web. Ele adiciona vários recursos ao CSS, como variáveis, mixins, aninhamento de seletores, herança e operações matemáticas. Esses recursos ajudam a tornar o código CSS mais legível, reutilizável e fácil de manter. 
 
